@@ -1,0 +1,12 @@
+{
+  "name": "com.valenvrc.pickup_reset_field",
+  "version": "1.0.0",
+  "description": "A simple script that drops and respawns held pickups upon leaving an area.",
+  "displayName": "Valenvrc - PickUp Reset Field",
+  "author": {
+    "name": "valenvrc",
+    "url": "https://discord.gg/6AcpahXKQu"
+  },
+  "unity": "2019.4",
+  "unityRelease": "31f1"
+}
